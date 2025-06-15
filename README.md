@@ -1,6 +1,6 @@
 # Target-Drop-Info-Rarity
 shows the dropchance from mob_drop_item.txt and common_drop.txt as text (legendary, mythic, rare, uncommon, common, guaranteed)
-(https://gyazo.com/f64a4bad116a6a4320315e9dec62e46a)
+https://gyazo.com/f64a4bad116a6a4320315e9dec62e46a
 
 -First of all you need the TARGET_INFO_DROP_SYSTEM for just the drops !!
 - I heard from som people that the old Tutorial from Chriss dont work right for them and they got many compiler errors.
